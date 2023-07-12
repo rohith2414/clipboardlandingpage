@@ -1,0 +1,198 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&family=Poppins:wght@200;400;600&family=Roboto:wght@400;500;700&display=swap');
+
+
+
+
+
+
+body{
+  font-family: Bai Jamjuree;
+  padding: 0;
+  margin: 0;
+}
+.heading
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.c
+{
+  color:rgb(4, 131, 118);
+  font-size: 70px;
+}
+.heading-h2
+{
+  margin-top: 0;
+}
+.c
+{
+  margin: 0;
+}
+.heading-c
+{
+  border: 5px solid rgb(4, 131, 118);
+  font-size: 30px;
+  width:60px;
+  height:60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.c{
+  padding-bottom: 10px;
+}
+.heading-text
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.heading-text-heading
+{
+  margin-top:25px;
+  
+}
+.h
+{
+  margin-bottom: 0px;
+  margin-top: 10px;
+  font-size: 30px;
+  color:rgb(79, 75, 75)
+}
+.heading-text-text
+{
+  margin:0px;
+
+  color:grey;
+  margin-left: 0px;
+  
+
+}
+.p1-two
+{
+  margin-left: 80px;
+  margin-top:0px;
+  font-size:14px;
+}
+.p1{
+  margin-bottom: 0px;
+  font-size:14px;
+}
+.heading-buttons
+{
+  margin-top: 10px;
+}
+.button1,
+.button2
+{
+  padding:10px 25px;
+  border-radius:20px;
+  color:white;
+  border:none;
+  font-size: 10px;
+}
+.button1
+{
+  margin-right:8px;
+  
+  background-color: rgb(4, 131, 118);
+  
+}
+.button2{
+  background-color: rgb(55, 83, 239)
+}
+.div2-top{
+  margin-top:80px;
+}
+.div2-top
+{
+  text-align: center;
+  margin-bottom:40px;
+}
+.div2-top h2
+
+{
+  color:rgb(85, 84, 84);
+}
+.div2 p
+{
+  color:grey;
+  font-size:14px;
+}
+.div2-left
+{
+  padding-left:250px;
+}
+.div2-bottom
+{
+  display: flex;
+}
+.div2-right-1 h2,
+.div2-right-2 h2,
+.div2-right-3 h2,
+.div3 h2,
+.div5 h2,
+.div6-1 h3,
+.div6-2 h3,
+.div6-3 h3
+{
+  color:rgb(85, 84, 84);
+  font-size: 20px;
+}
+.div2-right-1 p,
+.div2-right-2 p,
+.div2-right-3 p,
+.div3 p,
+.div5 p,
+.div6-1 p,
+.div6-2 p,
+.div6-3 p{
+  color:grey;
+  font-size: 14px;
+}
+.div2-right{
+  margin-left:60px;
+  width:285px;
+}
+.div3{
+  text-align: center;
+  margin-top: 70px;
+}
+.div4
+{
+  display: flex;
+  justify-content: center;
+  margin-top:70px;
+}
+.div5
+{
+  text-align: center;
+  margin-top: 50px;
+}
+.div6-inner
+{
+  display: flex;
+  
+  margin-top: 80px;
+  margin-left:450px;
+  align-items: center;
+}
+.div6-1,
+.div6-2,
+.div6-3
+{
+  width:300px;
+}
+.div7
+{
+  margin-top:90px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom:90px;
+}
